@@ -35,6 +35,24 @@ Postupem času jsem měl nastarost implementaci verzovacího nástroje GIT, ale 
 
 ---
 
+Naskytla se mi příležitost pracovat v korporátní firmě Vltava Labe Media, kde jsem působil na pozici **Junior PHP developer**
+
+Zde jsem se poprvé setkal z technologiemi **docker**, PHP framework **Symfony** a **Nette**. 
+
+V této firmě jsem došel k závěru, že bez dockeru too prostě nejde. 
+
+Docker
+------
+- je určen primárně pro lokální vývoj (pracuji s nim před deployem na server). Také se dá ovšem dobře využít pro produkční prostředí
+- možnost nakonfigurovat služby bez využití ostrých serverů (které jsou vetšinou předražené). 
+    - ke konfuguraci slouží **docker-compose.yml**. Spoutíme ho pomocí linux příkazu **docker-compose up --build** (nutné jen při prvním spuštěním)
+    - Poté, co si vytvoříme tento soubor, tak vše funguje na princip image-ů. Při prvním spuštění se pullne (stáhne) několik služeb, které jsme si v souboru nakonfigurovali a budeme moci s nimi pracovat. 
+    - Vše funguje na lokální bázi, tudíž, když služby ukončíme, nebudou dostupné do doby, kdy je nespustíme. 
+    ---
+   
+ Ale dockeru už bylo dost  
+
+
 
 
 
