@@ -1,4 +1,5 @@
 ![Image](https://images.unsplash.com/photo-1542744095-291d1f67b221?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80)
+
 Ahoj 
 -----
 
@@ -49,8 +50,32 @@ Docker
     - Poté, co si vytvoříme tento soubor, tak vše funguje na princip image-ů. Při prvním spuštění se pullne (stáhne) několik služeb, které jsme si v souboru nakonfigurovali a budeme moci s nimi pracovat. 
     - Vše funguje na lokální bázi, tudíž, když služby ukončíme, nebudou dostupné do doby, kdy je nespustíme. 
     ---
+
+Tenhle příspěvek není primárně o dockeru, ale abych se Vám představil, takže dockeru jsem věnoval jeden odstavec, abychom si dovedli představit, v čem tato technologie spočívá.
+
+---
+Takže ...
+====
+Poté jsem přesídlil do pražské firmy jménem Mafra, kde jsem se podílel **na vývoji intranetu** pro společnost společnost **AGROFERT**. 
+
+___
+
+Po této příležitosti jsem se přesonul do působiště, kde jsem setval dodnes a jsem zaměstnán jako **PROGRAMÁTOR**. 
+Vyvíjím zde **desktopové aplikace v C# a ASP .NET**, ale také aplikace pro **mobilní zařízení** s operačním systémem **Android**. 
+
+---
+Jsem toho názoru, že člověk se má neustále zdokonalovat a posouvat dopředu a překovávat veškeré překážky, co mu život nastaví. 
+
+P.S. 
+- v soukromém sektoru mnoho věcí stavím na technologiích jako je **React**, **Node JS**. Konkrétně pak JS Framework **Gatsby JS**. 
+
+Postupem času jsem zjistil, že člověk nemůsí umět vše zpaměti, ale je důležité si věci **najít a umět je použít** (například externí hnihovny)
+
+
+
+
    
- Ale dockeru už bylo dost  
+ 
 
 
 
