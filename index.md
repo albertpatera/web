@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+![Image](https://images.unsplash.com/photo-1542744095-291d1f67b221?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80)
 
-You can use the [editor on GitHub](https://github.com/albertpatera/albertpatera-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ahoj 
+-----
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- jmenuji se **Albert Patera** a na webové sféře působím již řadu let. Nyní se vývoojem stránken a webovách nebo desktopových aplikací prakticky živím 
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Během mé praxe jsem působil v několika firmách a vyzkoušel jsem si práci v několika odvětvích. 
+=
+----
 
-```markdown
-Syntax highlighted code block
+Poté, co jsem v roce 2017 úspěšně odmaturoval, obsolvoval jsem 6-měsíční odbornou stáž ve firmě **Web Revolution s.r.o**. 
+Během tohoto působění jsem pronikl do oblasti frameworků a extreních knihoven obecně.
 
-# Header 1
-## Header 2
-### Header 3
+Měl jsem příležitost si vytvořit web  úplně od základů podle moderních principů. 
+> V průběhu této stáže jsem se rozhodl podat si přihlášku na vysokou školu. 
+Zvolil jsem fakultu informačních technologií. Přijímací zkoušky byly z matematiky. 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+V roce 2018 jsem přesídlil do webdevepmentu do jedné z firmy v Karlíně (Praha).
+Působil jsem na pozici **Full stack developera**. Setkal jsem se jak s frondendovými technologiemi, tak s backendovými.  
 
-**Bold** and _Italic_ and `Code` text
+Frondendovou část ("to, co je vidět") tvořily technologie:
+- HTML
+- CSS 3 
+- jQuery 
 
-[Link](url) and ![Image](src)
-```
+Backendové technologie: 
+- PHP
+- MySQL 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Postupem času jsem měl nastarost implementaci verzovacího nástroje GIT, ale tento nástroj se ve společnosti začal naplno používat až v době, kdy jsem tuto firmu opustil. 
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/albertpatera/albertpatera-web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Naskytla se mi příležitost pracovat v korporátní firmě Vltava Labe Media, kde jsem působil na pozici **Junior PHP developer**
 
-### Support or Contact
+Zde jsem se poprvé setkal z technologiemi **docker**, PHP framework **Symfony** a **Nette**. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+V této firmě jsem došel k závěru, že bez dockeru too prostě nejde. 
+
+Docker
+------
+- je určen primárně pro lokální vývoj (pracuji s nim před deployem na server). Také se dá ovšem dobře využít pro produkční prostředí
+- možnost nakonfigurovat služby bez využití ostrých serverů (které jsou vetšinou předražené). 
+    - ke konfuguraci slouží **docker-compose.yml**. Spoutíme ho pomocí linux příkazu **docker-compose up --build** (nutné jen při prvním spuštěním)
+    - Poté, co si vytvoříme tento soubor, tak vše funguje na princip image-ů. Při prvním spuštění se pullne (stáhne) několik služeb, které jsme si v souboru nakonfigurovali a budeme moci s nimi pracovat. 
+    - Vše funguje na lokální bázi, tudíž, když služby ukončíme, nebudou dostupné do doby, kdy je nespustíme. 
+    ---
+
+Tenhle příspěvek není primárně o dockeru, ale abych se Vám představil, takže dockeru jsem věnoval jeden odstavec, abychom si dovedli představit, v čem tato technologie spočívá.
+
+---
+Takže ...
+====
+Poté jsem přesídlil do pražské firmy jménem Mafra, kde jsem se podílel **na vývoji intranetu** pro společnost společnost **AGROFERT**. 
+
+___
+
+Po této příležitosti jsem se přesonul do působiště, kde jsem setval dodnes a jsem zaměstnán jako **PROGRAMÁTOR**. 
+Vyvíjím zde **desktopové aplikace v C# a ASP .NET**, ale také aplikace pro **mobilní zařízení** s operačním systémem **Android**. 
+
+---
+Jsem toho názoru, že člověk se má neustále zdokonalovat a posouvat dopředu a překovávat veškeré překážky, co mu život nastaví. 
+
+P.S. 
+- v soukromém sektoru mnoho věcí stavím na technologiích jako je **React**, **Node JS**. Konkrétně pak JS Framework **Gatsby JS**. 
+
+Postupem času jsem zjistil, že člověk nemůsí umět vše zpaměti, ale je důležité si věci **najít a umět je použít** (například externí hnihovny)
+
+
+
+
+
