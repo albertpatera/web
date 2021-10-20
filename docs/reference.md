@@ -26,7 +26,8 @@ Josef Jebavý
 - řešení vše okolo designu. Aplikoval jsem CSS framework Boostrap, protože má dobře vyřešenou responzivitu (pro mobilní telefony)
 - projekt je verzovaný pomocí gitu a dockeru.
 - stránku jsme pak s Josefem převedli podle požadavků do PHP frameworku Symfony 
----
+
+
 
 
 
