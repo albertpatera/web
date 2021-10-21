@@ -29,6 +29,28 @@ Josef Jebavý
 - projekt je verzovaný pomocí gitu a dockeru.
 - stránku jsme pak s Josefem převedli podle požadavků do PHP frameworku Symfony 
 
+---
+
+Mail server
+---
+
+Jelikož jsem nadšený uživatel linucxu a open- source, tak mi přišlo dobré si pořídit VPS server. Poprvé jsem se s Linuxem setkal na střední škole ve třetím ročníku. 
+
+To jsem ještě nevěděl, že se pro mne linux stane závislostí. Nejdříve jsem si zřídil VPS u společnosti WEDOS. Nekrít jsem potřeboval přehodit mou maturitní práci na živou IP adresu. Přišlo mi trochu hrozné mít to jenom na lokále. Ale také jsem mohl zkombinovat mé znalosti, které jsem získal v průběhu studia. 
+
+O pár let později jsem linux používal prakticky děnně. 
+
+Nechtělo se mi platit za hosting 2 000 Kč ročně, tak jsem si zakoupil jen doménu a hostoval jsem ho na serveru od společnosti VPS FREE. Výhodou toho je, že si můžete na jeden server napojit několik webů, které běří na stehjné URL adrese, ale na jiných doménách. 
+
+Potřebujete tedy webserver, php a nějakou tu databázi. Popř. NoSQL (elasticsearch). Data uložené na vzdáleném serveru a klient je tak dostane ve formátu json a tím páděm s nimi může hezky pracovat
+
+----
+
+Zřídil jsem si také zamozřejmně vlastní mail server. Opět se mi nechtělo platit za mail nekomu cizímu. radši ám vše od jednou střechou. 
+
+Tady si musíte ovšem hlídat termín provedení platby. V případě, pokud server včřas nezaplatíte, tak ho vypnout nebo dokonce zruší a vše je tím pádem ztraceno. 
+
+
 
 
 
