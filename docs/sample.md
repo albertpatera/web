@@ -1,5 +1,6 @@
 test
 =====
+![Image](https://upload.albertpatera.cz/logo.png)
+
 test
 ----
-![Image](https://upload.albertpatera.cz/wall.png)
