@@ -9,5 +9,5 @@ Základní informace
 | **Bydliště** | Donatellova 2002/8, Praha 10-Strašnice, 100 00 |
 | **www** | https://albertpatera.cz |
      
-
-----
+| first col | second col | third col
+| Adam      | Eva        | Franta
