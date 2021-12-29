@@ -11,3 +11,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Everything is posible...."
   email: albert.patera@gmail.com
+
+configur:
+  css: 
+    path: /assets/css/style.css?v=
