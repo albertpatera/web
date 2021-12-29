@@ -71,6 +71,22 @@ P.S.
 
 Postupem času jsem zjistil, že člověk nemůsí umět vše zpaměti, ale je důležité si věci **najít a umět je použít** (například externí hnihovny)
 
+Shrnutí mých znalostí
+=====
+- mám zkušenosti s těmito technologiemi: 
+    **PHP Framework Nette**, **PHP framework Symfony**
+    - **Symfony**
+        - podle mého názoru teno framework používám radši, než **Nette**. Zaujal mne také způsob vyřešení routování (url adresa na lomítkem). 
+        - **Migrace**
+            - DQL - **Doctrine ORM engine** - Momocí příkazů si nadefinujeme entitu a poté spustíme migraci, aby se změny projevily v databázi (tzn. **vytvořila se tabulka**) a my mohli vkládat data do databáze. 
+
+Nelze přesně specifikovat, jaký z Frameworků je lepší, protože každý má svoje pozitiva a negativa.
+<hr>
+
+- **HTML** && **CSS** 
+    - **HTML**
+        - musím zde zmínit jeden fakt. HTML **NENÍ PROGRAMOVACÍ JAZYK**, ale **ZNAČKOVACÍ**. Mnoho lidí tetu zkutečnost zaměňuje. Pomocí tohoto jazyka de finujeme kostru webu. Zde ještě neděláme design webu. K tomu nám slouží technologie **CSS**. 
+
 
 
 
