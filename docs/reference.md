@@ -24,10 +24,13 @@ Josef Jebavý
 
 **webová stránka**: https://linuserveradmin.eu
 
+**vývojářský tým:** Josef Jebavý, Albert Patera
+
 **Popis práce** 
 - řešení vše okolo designu. Aplikoval jsem CSS framework Boostrap, protože má dobře vyřešenou responzivitu (pro mobilní telefony)
 - projekt je verzovaný pomocí gitu a dockeru.
 - stránku jsme pak s Josefem převedli podle požadavků do PHP frameworku Symfony 
+
 
 ---
 
@@ -50,6 +53,17 @@ Zřídil jsem si také zamozřejmně vlastní mail server. Opět se mi nechtělo
 
 Tady si musíte ovšem hlídat termín provedení platby. V případě, pokud server včřas nezaplatíte, tak ho vypnout nebo dokonce zruší a vše je tím pádem ztraceno. 
 
+APadmin mobile 
+---
+**POPIS APLIKACE**
+
+Tato dektopová aplikace bude mít na starost vkládání dat (článků) do paměti (nejspíše do csv souboru). 
+
+Soubor následně data uloží do pole a převede do csv souboru, ktrerý se pak natáhne do databáze 
+
+**Webová stránka:** https://apmobile.com
+
+**Vývojářský tým:** Albert Patera  
 
 
 
