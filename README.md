@@ -1,3 +1,6 @@
+![](https://upload.albertpatera.cz/logo.png) 
+
+
 # Albert Patera 
 
 - <pre>./docs</pre>
@@ -6,7 +9,7 @@
 
 /blog
 ---
-- **there will be write some story from my life**
+- **there will be write some story from my life   nbhgj*
 
 
 
