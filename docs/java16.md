@@ -1,4 +1,7 @@
-
+---
+    title: How to install JAVA 16 JDK
+    url: /how-to-install-java-16
+---
 how to install JAVA 16 or newer (latest)
 =
 https://www.linuxcapable.com/how-to-install-java-16-openjdk-16-on-debian-11/
