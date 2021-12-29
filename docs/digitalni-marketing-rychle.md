@@ -1,3 +1,7 @@
+---
+title: Affialte marketing jednoduše
+url: /digitalni-marketing-jednoduse
+---
 Affiliate marketing
 ==
 ....marketing jednoduše odkudkoliv
