@@ -1,4 +1,7 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: marella/jekyll-theme-documentation
+
+
 title: Albert Patera 
 description: WWW developer, android apps & programmer
 
