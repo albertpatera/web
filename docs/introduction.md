@@ -53,7 +53,7 @@ Docker
 
 Tenhle příspěvek není primárně o dockeru, ale abych se Vám představil, takže dockeru jsem věnoval jeden odstavec, abychom si dovedli představit, v čem tato technologie spočívá.
 
----
+
 Takže ...
 ====
 
