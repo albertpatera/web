@@ -59,8 +59,10 @@ Docker
 Tenhle příspěvek není primárně o dockeru, ale abych se Vám představil, takže dockeru jsem věnoval jeden odstavec, abychom si dovedli představit, v čem tato technologie spočívá.
 
 ---
+
 Takže ...
 ====
+
 Poté jsem přesídlil do pražské firmy jménem Mafra, kde jsem se podílel **na vývoji intranetu** pro společnost společnost **AGROFERT**. 
 
 ___

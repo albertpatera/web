@@ -56,6 +56,7 @@ Tenhle příspěvek není primárně o dockeru, ale abych se Vám představil, t
 ---
 Takže ...
 ====
+
 Poté jsem přesídlil do pražské firmy jménem Mafra, kde jsem se podílel **na vývoji intranetu** pro společnost společnost **AGROFERT**. 
 
 ___
