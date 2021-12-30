@@ -1,18 +1,14 @@
-# Site navigation links
+# Belongs at: /_data/navigation.yml
+
 - title: Home
   url: /
 
-- title: Presentations
-  url: /presentations/
-
-- title: CV
-  url: /cv/
-
-- title: Blog
-  url: /blog/
-
-- title: Workshops
-  url: /workshops/
-
-- title: JAVA v16
-  url: /how-to-install-java-16
+- title: Group of Things
+  url: /group/
+  sublinks:
+    - title: Sub-item 1
+      url: /group/si1
+    - title: Sub-item 2
+      url: /group/si2
+    - title: Sub-item 3
+      url: /group/si3
