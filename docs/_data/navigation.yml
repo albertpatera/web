@@ -12,3 +12,9 @@
       url: /group/si2
     - title: Sub-item 3
       url: /group/si3
+
+- title: Životopis
+  url: /sample
+
+- title: Kontakt
+  url: /contact
