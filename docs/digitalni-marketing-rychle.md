@@ -7,7 +7,7 @@ Affiliate marketing
 ....marketing jednoduše odkudkoliv
 ---
 
-_______________
+---
 
 Dobrý den, 
 
@@ -19,5 +19,12 @@ Osobně sleduji několik lidí, kteří dělají Affiliate marketing každý den
 
 **ZA PREZENTACI PRODUKTŮ DOSTANETE ZAPLACENO**
 ---
+- Existuje mnoho cest, **jak začít s digitálním marketingem. 
+    - rozvíjet spolupráce přes socilní sítě
+    - vytvářet videa o značce, se kterou spolupracuji
+
+*Pozn.: Podle mého názoru jde doba dopředu raketovým tempem a je jen otázkou času, kdy se Influencering stane běžným zaměstním*
+
+*Pozn. 2:No a pak vypade insternetové připojení a bude pujde všechno do kopru.* 
 
 
