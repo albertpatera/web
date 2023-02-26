@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="shortcut icon" href="https://upload.albertpatera.cz/public/me.png">
+    <style>
+       img {
+           width: 75% !important;
+           height: 50% !important;
+       }     
+
+       h1 {
+           background-color: darkblue;
+           padding: 15px;
+           color: white;
+           border-radius: 6px;
+       }
+
+       hr {
+           border: 2.5px solid darkblue;
+       }
+
+       nav li {
+           list-style-type: none;;
+           background-color: white;
+           color: white;
+           padding: 15px;
+           margin: 10px;
+
+       }
+
+       nav li a {
+           text-decoration: none;
+           font-size: 25px;
+       }
+
+
+    </style>
+
+{% seo %}
+    {% include head-custom.html %}
+  </head>
+
+    <body style="background-color: #aaa; font-family: 'Segoe UI light', Tahoma, Geneva, Verdana, sans-serif">
+        <header style="text-align: center!important; background-color: white!important; border-radius: 6px!important; margin: 25px!important; padding: 15px!important;">
+            {{ title }}
+            <div style="font-style: italic; text-align: justify;">{{ description }}</i>
+            <img style="width: 75% !important; height:350px !important; margin: 0 auto;" src="https://upload.albertpatera.cz/logo.png">
+        </header>
+        <main>
+            {% include navigation.html %}
+            	<section style="background-color: white !important; display: block; margin: 0 auto; width: 90%; height: 100%!important; border-radius: 6px!important; padding: 15px!important; margin: 25px!important; text-align: justity;
+                width: 75%;">
+                    {{ content }}
+                </section>
+        </main>
+
+        <footer style="text-align: center!important; background-color: white!important; border-radius: 6px!important; margin: 25px!important; padding: 15px!important;">
+            &copy; {{  owner.name }} | All right serverved
+        </footer>
+        9+6
+    </body>
+</html>
