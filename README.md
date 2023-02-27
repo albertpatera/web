@@ -1,5 +1,5 @@
 # Albert Patera
-![Drag Racing](https://upload.albertpatera.cz/me.png >)
+![image alt >](/image-right.jpg)
 - programmer
 - webmaster
 - webdesigner
