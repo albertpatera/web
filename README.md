@@ -1,5 +1,5 @@
 # Albert Patera
-![image alt >](/image-right.jpg)
+![image alt >](https://upload.albertpatera.cz/me.png)
 - programmer
 - webmaster
 - webdesigner
